@@ -17,6 +17,10 @@ Hidden tripping hazards cause over 80% of indoor falls. Inspired by the need to 
 - 🎙️ **Voice Interaction:** Hands-free control with Speech-to-Text (STT) and native-accent Text-to-Speech (TTS) warnings.
 - 📱 **Assistive UI Modes:** Features an Obstacle Image Gallery (auto-labels and saves hazards), a Remote Viewing mode for family members to check in, and an Idle Music player for privacy.
 
+## 🎨 App UI Design
+
+The user interface of SONA was custom-designed by our team from the ground up to ensure maximum accessibility and ease of use for the elderly and visually impaired. For a comprehensive look at our design process, mockups, and user flows, please refer to the [App UI Design document (PDF)](./SONA%20App_UI%20Design.pdf) located in the root directory.
+
 ## 🏗️ The Three-Tier Architecture
 
 Running state-of-the-art SLAM and Object Detection simultaneously on a mobile device is computationally impossible. SONA solves this via a highly optimized, distributed three-tier architecture communicating over low-latency UDP/TCP streams:
@@ -75,6 +79,8 @@ python respberrryPi/unified_slam_server_optimized.py
 ```
 
 ### 3. Unity Client
+*(Note: A pre-compiled APK is available in the **Releases** section.)*
+
 1. Open **Unity Hub** and add the `SONA/` folder as an existing project.
 2. Open the project. Configure the target IP addresses in the Unity Network Settings or relevant C# script variables to point to your Python servers (Raspberry Pi and Remote PC).
 3. Build and deploy to your Android/iOS mobile device.
