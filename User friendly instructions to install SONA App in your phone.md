@@ -28,9 +28,6 @@ Follow these simple steps to download and install the SONA App directly from our
 
 ---
 
-*Note for iOS (iPhone) Users: Direct installation via GitHub is typically for Android devices. If you are on an iPhone, please look out for an official App Store release or a TestFlight invitation link.*
-
----
 
 # How to Set Up and Use the SONA App
 
