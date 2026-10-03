@@ -14,7 +14,7 @@ Follow these simple steps to download and install the SONA App directly from our
 2. **Download the App:** 
    - Look for the **Latest** release at the top of the page.
    - Scroll down to the **Assets** section of that release.
-   - Tap on the file ending in `.apk` (for example, `app-release.apk`) to start downloading it to your device.
+   - Tap on the file `main.apk` to start downloading it to your device.
 
 3. **Allow Installation (If Prompted):**
    - Once the download is complete, tap **Open** on the downloaded file notification.
