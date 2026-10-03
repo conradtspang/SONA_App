@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-**SONA** is the world's first real-world elderly and visually impaired assistive application that combines **real-time Visual SLAM** with **YOLO-World object detection**. 
+**SONA** is the world's first real-world elderly and visually impaired assistive application that combines **real-time Visual SLAM** with **YOLO-World object detection**. I designed the end-to-end UI and App icon for **SONA**.
 
 Hidden tripping hazards cause over 80% of indoor falls. Inspired by the need to navigate cramped indoor spaces safely, SONA acts as a "digital co-pilot." A mobile phone is placed on the user's walker, utilizing the camera to map the environment, identify hidden hazards, and provide instantaneous voice and visual warnings when obstacles enter a critical danger zone.
 
@@ -19,7 +19,7 @@ Hidden tripping hazards cause over 80% of indoor falls. Inspired by the need to 
 
 ## 🎨 App UI Design
 
-The user interface of SONA was custom-designed by our team from the ground up to ensure maximum accessibility and ease of use for the elderly and visually impaired. For a comprehensive look at our design process, mockups, and user flows, please refer to the [App UI Design document (PDF)](./SONA%20App_UI%20Design.pdf) located in the root directory.
+I designed the user interface of SONA from the ground up to ensure maximum accessibility and ease of use for the elderly and visually impaired. For a comprehensive look at my design process, mockups, and user flows, please refer to the [App UI Design document (PDF)](./SONA%20App_UI%20Design.pdf) located in the root directory.
 
 ## 🏗️ The Three-Tier Architecture
 
