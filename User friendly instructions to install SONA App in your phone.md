@@ -5,26 +5,26 @@ Follow these simple steps to download and install the SONA App directly from our
 ## For Android Users
 
 1. **Visit the Download Page:** Open the web browser on your phone and go to the following link:
-   [https://github.com/conradtspang/SONA/releases](https://github.com/conradtspang/SONA/releases)
+   [https://github.com/conradtspang/SONA/releases/download/apk/SONA.zip](https://github.com/conradtspang/SONA/releases/download/apk/SONA.zip)
 
    ```
    Once I finalize the App, I will release it to Google Play for download.
    ```
 
-2. **Download the App:** 
+3. **Download the App:** 
    - Look for the **Latest** release at the top of the page.
    - Scroll down to the **Assets** section of that release.
    - Tap on the file `main.apk` to start downloading it to your device.
 
-3. **Allow Installation (If Prompted):**
+4. **Allow Installation (If Prompted):**
    - Once the download is complete, tap **Open** on the downloaded file notification.
    - *Note:* Your phone might display a security warning asking for permission to install unknown apps. If this happens, tap **Settings** on the prompt and turn on the switch for **"Allow from this source"**.
 
-4. **Install:**
+5. **Install:**
    - Return to the installation screen and tap **Install**.
    - Wait a few moments for the installation process to complete.
 
-5. **Open the App:** Tap **Open** to launch the SONA app and log in!
+6. **Open the App:** Tap **Open** to launch the SONA app and log in!
 
 ---
 
